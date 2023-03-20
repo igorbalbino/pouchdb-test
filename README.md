@@ -1,6 +1,7 @@
 # Teste PouchDB
 
 Web App para testar funcionalidades do PouchDB.
+Esse projeto usa node 18.15.0
 
 ## O que é PouchDB ?
 PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
