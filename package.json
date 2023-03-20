@@ -1,0 +1,26 @@
+{
+  "name": "pouchdb-test",
+  "version": "1.0.0",
+  "description": "node 18.15.0 - testando usos do pouchdb.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "pouchdb"
+  ],
+  "author": "Igor do Espírito Santo Balbino",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "morgan": "^1.10.0",
+    "pouchdb": "^8.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
